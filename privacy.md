@@ -9,17 +9,28 @@ Glow ("we", "our", or "us") respects your privacy. This Privacy Policy explains 
 Depending on how you use the app, we may collect:
 
 ### Account Information
-If you create an account (e.g., Sign in with Apple or other providers), we may collect:
-- Email address
-- User identifier
 
-### Usage Data
+If you create an account (Sign in with Apple, Google, or email/password), we collect:
+- Email address (or Apple/Google identifier)
+- User ID for authentication and synchronization
+
+### Content You Create
+
+When you use the app, we store:
+- Bible highlights (book, chapter, verse, color)
+- Notes on Bible verses (text and visibility setting)
+- Reading progress and app settings (e.g., font size, denomination)
+- Chat conversations with the AI assistant ("Biblica")
+
+### Usage & Technical Data
+
 We may collect anonymous usage data to improve the app, such as:
-- App interactions
-- Feature usage
-- Device type and system version
+- App interactions and feature usage
+- Device type and operating system version
+- AI usage metrics (e.g., token counts) to manage service limits
 
 ### Crash & Performance Data
+
 We may collect crash reports and diagnostics to improve stability and performance.
 
 We do **not** sell your personal data.
@@ -28,32 +39,40 @@ We do **not** sell your personal data.
 
 We use collected data to:
 - Provide and maintain the app
-- Sync your notes, highlights, or settings (if applicable)
-- Improve features and user experience
-- Fix bugs and technical issues
+- Synchronize your highlights, notes, and settings across devices
+- Power the AI chat assistant ("Biblica")
+- Improve features and fix technical issues
 
-## 3. Data Storage
+## 3. Data Storage & Third-Party Services
 
-Your data may be securely stored using trusted third-party services (e.g., cloud providers). We take reasonable steps to protect your information.
+Your data is stored and processed using:
+
+- **Supabase** (authentication, database, cloud storage)
+- **OpenAI** (AI chat responses processed via Supabase Edge Functions)
+- **Apple and Google** (when you use their authentication services)
+
+Prompts and responses sent to the AI assistant may be processed by OpenAI to generate responses.
+
+We take reasonable technical and organizational measures to protect your information. Where applicable, data is stored in the European Union.
 
 ## 4. Account Deletion
 
-You can request account deletion:
-- Directly inside the app (if available), or
-- By contacting us at: support@glowbible.app
+You can request account deletion by contacting us at:
 
-Upon request, your personal data will be deleted unless legally required otherwise.
+onur18108@icloud.com
 
-## 5. Children’s Privacy
+Upon request, your personal data will be deleted unless we are legally required to retain certain information.
 
-Glow is not specifically directed toward children under 13. We do not knowingly collect personal information from children under 13.
+## 5. Children's Privacy
+
+Glow is not directed at children under 13. We do not knowingly collect personal information from children under 13.
 
 ## 6. Changes to This Policy
 
-We may update this Privacy Policy from time to time. Changes will be posted on this page.
+We may update this Privacy Policy from time to time. Updates will be posted on this page with a revised "Last updated" date.
 
 ## 7. Contact
 
-If you have any questions about this Privacy Policy, contact us at:
+If you have any questions about this Privacy Policy, you can contact us at:
 
-support@glowbible.app
+onur18108@icloud.com
