@@ -68,7 +68,7 @@ You can request account deletion by contacting us at:
 
 onur18108@icloud.com
 
-Upon request, your personal data will be deleted unless we are legally required to retain certain information.
+Upon request, your personal data will be deleted unless we are legally required to retain certain information. You can also go on Profile -> Settings -> Delete Account directly in the Glow App
 
 ## 5. Children's Privacy
 
